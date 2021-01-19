@@ -6,7 +6,11 @@ On January 19, 2021, CSWEP (the American Economic Association's [Committee on th
 
 ## Slides
 
-[https://doi.org/10.5281/zenodo.4450855](https://doi.org/10.5281/zenodo.4450855)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4450855.svg)](https://doi.org/10.5281/zenodo.4450855)
+
+
 
 ## Recordings
 
